@@ -1,3 +1,3 @@
+#!/bin/bash
 
-
-exit
+echo "Hello World"
